@@ -1,4 +1,5 @@
-Financial Sentiment Analysis
+Project:-    
+                  ** Financial Sentiment Analysis **
 
 The following data is intended for advancing financial sentiment analysis research. It's two 
 datasets (FiQA, Financial PhraseBank) combined into one easy-to-use CSV file. It provides 
